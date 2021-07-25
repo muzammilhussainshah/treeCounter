@@ -1,0 +1,15 @@
+{
+  "certified": "Certificato",
+  "nonCertified": "Non certificato",
+  "project": "Progetto",
+  "organisation": "Organizzazione",
+  "Cost": "Costo per albero",
+  "donateTrees": "Dona alberi",
+  "individual": "Albero individuale",
+  "survival_rate": "Tasso di sopravvivenza",
+  "plantedTrees": "Alberi Piantati",
+  "registerFurther": "Aggiungi Altri Alberi",
+  "individual_name": "Individuale",
+  "next": "Continua",
+  "delete_project": "Elimina progetto"
+}

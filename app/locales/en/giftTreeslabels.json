@@ -1,0 +1,21 @@
+{
+  "currency": "Currency",
+  "gift_trees": "Gift Trees",
+  "treecounter_user_name": "Existing User",
+  "other_email": "Email",
+  "heading_give": "Give to ...",
+  "heading_donate_details": "Donation Details",
+  "heading_donor_details": "Donor Details",
+  "heading_project": "Project",
+  "heading_payment": "Payment",
+  "no_of_trees": "Number of Trees",
+  "trees": "Trees",
+  "gift_trees_description": "Gift trees to friends or other contacts! Each tree you give appears in both your own and the recipient's tree counter. If they don't have a tree counter yet, we will invite them to plant with us via e-mail!",
+  "gift_message": "Gift Message (Optional)",
+  "support_user_trees": "Supporting {{user}} to plant {{count}} trees",
+  "gift_user_trees": "Gifting {{count}} trees to  {{user}}",
+  "gift_to": "Gift to {{name}}",
+  "support_to": "Support to {{name}}",
+  "gift_trees_to": "Gift Trees To {{user}}",
+  "select_valid_user_profile": "Select Valid User Profile"
+}

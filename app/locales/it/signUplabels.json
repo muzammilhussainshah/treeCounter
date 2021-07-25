@@ -1,0 +1,18 @@
+{
+  "signup": "Partecipa",
+  "email": "Email",
+  "address": "Indirizzo",
+  "zipCode": "Codice Postale",
+  "city": "Città",
+  "subtype": "Categoria",
+  "country": "Nazione",
+  "password_repeat": "Ripeti la password",
+  "firstname": "Nome",
+  "lastname": "Cognome",
+  "i_am_a": "Sono",
+  "i_am": "Sono",
+  "individual_title": "Solo io",
+  "education_title": "Scuola",
+  "already_have_account": "Hai già un account?",
+  "education": "Educazione"
+}
